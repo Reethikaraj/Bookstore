@@ -1,4 +1,4 @@
-https://gifted-jepsen-43f2f1.netlify.app
+https://reethikabookstore.netlify.app
 The application can be seen in the above link.
 
 This is a frontend project. My idea was to create a children's online book store. The Home page has a few detials of the bookstore. In the store page, the books details are shown in the cards. There is an option to search for a particular book among the books. There is also an option to sort the books in alphabetical order and according to pages. I have used google books API for the data.
