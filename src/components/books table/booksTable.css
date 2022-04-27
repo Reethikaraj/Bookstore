@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.store{
+  background-color: var(--primary-background);
+  color: var(--text-primary);
+}
+
+.card{
+margin: 2%;
+background-color: var(--secondary-background);
+color: var(--text-secondary);
+text-align: center;
+text-justify:center;
+align-items: center;
+}
+.addToCart-btn{
+  background-color: var(--primary-background);
+  color: var(--text-primary);
+}
+.infolink{
+  text-decoration: underline;
+  color: var(--text-secondary);
+  background-color: lightpink; 
+}
+.infolink:hover{
+  color: brown;
+}
+.card a{
+  text-decoration: none;
+  color: var(--text-secondary);
+}
+
+.card a:hover{
+  color: brown;
+}
+.btn{
+  background-color: var(--primary-background);
+  color: var(--text-primary);
+}
+.btn:hover{
+ background-color: rgb(102, 146, 167);
+}
+

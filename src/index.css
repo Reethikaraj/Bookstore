@@ -1,0 +1,14 @@
+
+:root {
+  --primary-background:#00B4D8 ;
+  --secondary-background: #CAF0F8;
+  --text-primary: black;
+  --text-secondary : #2C3333;
+
+}
+[data-theme='dark'] {
+  --primary-background:#90E0EF ;
+  --secondary-background: #03045E;
+  --text-primary: #11468F;
+  --text-secondary : #F5F2E7;
+}
